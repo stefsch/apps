@@ -44,7 +44,7 @@ ENV PHPMYADMIN_HOME "/home/phpmyadmin"
 # drupal
 ENV DRUPAL_VERSION "8.3.1"
 ENV DRUPAL_DOWNLOAD_URL "https://ftp.drupal.org/files/projects/drupal-$DRUPAL_VERSION.tar.gz"
-ENV DRUPAL_MD5 "3bcddc9a48801f7035c7cb0e6f02f6d0"
+ENV DRUPAL_MD5 "0287dcda619e440f6d41b1cc48a81e56"
 ENV DRUPAL_SOURCE "/usr/src/drupal"
 ENV DRUPAL_HOME "/home/site/wwwroot"
 
